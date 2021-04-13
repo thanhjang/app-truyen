@@ -1,0 +1,93 @@
+{
+    "HomeScreen": {
+        "title": "Manga",
+        "menuPhanLoai": "Classify",
+        "menuBangXepHang": "Ranking",
+        "menuCapNhatMoi": "New update",
+        "title_truyenConGaiThich": "GIRL MANGA",
+        "title_truyenConTraiThich": "BOY MANGA",
+        "title_truyenRomance": "ROMANCE"  
+    },
+
+    "WebViewScreen": {
+        "title": "{{title}}"
+    },
+
+    "SettingScreen": {
+        "title": "Setting",
+        "manageAccount": "My Account",
+        "languagesSetting": "Languages Setting",
+        "feedback": "Feedback",
+        "aboutUs": "About"
+    },
+
+    "LanguageSettingsScreen": {
+        "title": "Language Setting",
+        "vietnamese": "Vietnamese",
+        "english": "English"
+    },
+
+    "SearchScreen": {
+        "title": "Login",
+        "searchButton": "Search",
+        "searchHistory": "Searching History",
+        "hintInputSearch": "Enter keyword"
+    },
+
+    "GlobalFollowTabBar": {
+        "FollowTab": "Follow",
+        "FollowHistoryTab": "History",
+        "FollowDownloadTab": "Download"
+    },
+
+    "GlobalTabBarLabel": {
+        "Manga": "Manga",
+        "Follow": "Follow",
+        "Settings": "Settings",
+        "Search": "Search"
+    },
+
+    "FeedbackScreen": {
+        "title": "Feedback",
+        "feedbackGuide": "Phản hồi của bạn là động lực cho chúng tôi tiến bộ. Nếu bạn phát hiện nội dung không phù hợp hoặc hành vi vi phạm bản quyền, xin hãy báo xấu cho chúng tôi.",
+        "hintInputFeedback": "Please enter your feedback at here",
+        "send": "Send feedback"
+    },
+
+    "AboutUsScreen": {
+        "title": "About us"
+    },
+
+    "MangaScreen": {
+        "autherName": "Auther: {{name}}",
+        "otherMangaName": "Other name: {{name}}",
+        "status": "Status: {{status}}",
+        "views": "{{number}} times",
+        "updating": "Updating",
+        "readBegin": "Read oldest",
+        "readEnd": "Read newest",
+        "noiDung": "Content",
+        "soChuong": "Chapter",
+        "capNhat": "Date",
+        "luotXem": "View",
+        "menu": "MENU",
+        "content": "INTRODUCE",
+        "alert_start_following": "Follow successfully",
+        "alert_stop_following": "Unfollow",
+        "button_follow": "Follow",
+        "following": "Following"
+    },
+
+    "MangaDetailScreen": {
+        "title": "",
+        "alert_end_chapter": "No more pages"
+    },
+
+    "MangaItem": {
+        "updateToChapter": "Update to: {{nameChapter}}",
+        "updateTime": "Update: {{time}}",
+        "views": "{{number}} views"
+    }
+    
+
+}
